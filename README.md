@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis: Python & SQL Pipeline
+# Telco Customer Churn Analysis: Python, Pandas & SQL
 
 ## 📌 Project Overview
 This project analyzes a Telco customer dataset to identify the primary drivers of customer churn. By leveraging SQL for data processing and Python (Pandas/Matplotlib) for data analysis and visualization—this project uncovers high-risk customer segments and provides actionable business insights.
